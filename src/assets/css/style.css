@@ -546,6 +546,11 @@ textarea:focus {
   margin-top: 8rem;
 }
 
+.decoration_content > div > div {
+  animation: fadeIn;
+  animation-duration: 2s;
+}
+
 .decoration_content_material img {
   margin-top: 2.5rem;
 }
